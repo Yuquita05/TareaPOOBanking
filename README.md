@@ -2,6 +2,7 @@
 
 
 Se hizo herencia de una clase identidad abstracta a los diferentes tipos de identidades, esta clase identidad abstracta forma parte de una lista en usuario
+
 Todos los sistemas bancarios implementan una interfaz llamada BankProcessor que tiene una funcion process que pueden usar segun se requiera
 
 classDiagram
